@@ -1,0 +1,17 @@
+{
+  "private": true,
+  "name": "react-context-test",
+  "version": "0.1.0",
+  "main": "index.js",
+  "author": "Yuji Suzuki <y0suzuki0123@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/react": "^16.0.40",
+    "@types/react-dom": "^16.0.4",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.11.1"
+  }
+}
